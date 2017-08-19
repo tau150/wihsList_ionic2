@@ -1,5 +1,6 @@
 {
   "name": "wishsList",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "0d381ac6",
+  "type": "ionic-angular",
+  "integrations": {}
 }
