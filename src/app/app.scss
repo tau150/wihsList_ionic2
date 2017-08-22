@@ -14,3 +14,22 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+
+.text-center{
+  text-align:center;
+}
+
+.line-through{
+  text-decoration: line-through;
+}
+
+
+.empty-box{
+  padding-top: 200px;
+  color: #eaeaea;
+}
+
+.empty-box ion-icon{
+  font-size: 80px;
+}
